@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<title>Hi! I'm Ben Wasden.</title>
-Welcome to my school profile!
+# Hi! I'm Ben Wasden.
+## Welcome to my school profile!
 
 - 🔭 I’m currently working on my degree in Software Development.
 - 🌱 I’m currently learning JS, HTML and CSS and have learned Python and C#.
 - 
+
+### My Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
