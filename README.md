@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **benwasden/benwasden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<title>Hi! I'm Ben Wasden.</title>
+Welcome to my school profile!
+
+- 🔭 I’m currently working on my degree in Software Development.
+- 🌱 I’m currently learning JS, HTML and CSS and have learned Python and C#.
+- 
