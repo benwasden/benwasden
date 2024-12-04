@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 # Hi! I'm Ben Wasden.
 ## Welcome to my school profile!
 
-- 🔭 I’m currently working on my degree in Software Development.
-- 🌱 I’m currently learning JS, HTML and CSS and have learned Python and C#.
-- 
+
+### About Me:
+- Currently working on my degree in Software Development.
+- Have been working in IT for 6 years.
 
 ### My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
