@@ -37,10 +37,10 @@ Technologies: Next.js, PostgreSQL, TypeScript
 ##
 
 ### Software Developer Stack:
-[![Software development skill icons](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,npm,pnpm,postgres,mysql,mongodb,py,cs,godot)](https://skillicons.dev)
+[![Software development skill icons](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,npm,pnpm,postgres,mysql,mongodb,py,cs,godot&perline=5)](https://skillicons.dev)
 
 ### IT Skills:
-[![IT Skill icons](https://skillicons.dev/icons?i=apple,windows,linux,azure,powershell,)](https://skillicons.dev)
+[![IT Skill icons](https://skillicons.dev/icons?i=apple,windows,linux,azure,powershell&perline=5)](https://skillicons.dev)
 
 ##
 
