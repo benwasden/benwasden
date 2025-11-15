@@ -1,4 +1,4 @@
-# Benjamin Wasden!
+# Benjamin Wasden
 
 Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Development at BYU Idaho. I love both the hardware and software of technology, as well as art, music, and much more. Welcome to my GitHub Profile!
 
