@@ -18,7 +18,7 @@
 
 
 ### Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/benwasden/benwasden/blob/main)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bpwasden)
 
 
 
