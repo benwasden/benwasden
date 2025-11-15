@@ -18,11 +18,7 @@
 
 
 ### Let's connect!
-<div id="social-media">
-  <a href="www.linkedin.com/in/bpwasden">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bpwasden/)
 
 
 
@@ -36,10 +32,10 @@ Technologies: Next.js, PostgreSQL, TypeScript
 
 
 ### Software Developer Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,npm,pnpm,postgres,mysql,mongodb,py,cs,godot)](https://skillicons.dev)
+[![Software development skill icons](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,npm,pnpm,postgres,mysql,mongodb,py,cs,godot)](https://skillicons.dev)
 
 ### IT Skills:
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,azure,powershell,)](https://skillicons.dev)
+[![IT Skill icons](https://skillicons.dev/icons?i=apple,windows,linux,azure,powershell,)](https://skillicons.dev)
 
 
 
