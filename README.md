@@ -17,6 +17,11 @@
 
 
 
+### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/benwasden/benwasden/blob/main)
+
+
+
 ### Project(s) in Development:
 **Artisan Marketplace** - Full Stack e-commerce platform
 Technologies: Next.js, PostgreSQL, TypeScript
@@ -33,3 +38,5 @@ Technologies: Next.js, PostgreSQL, TypeScript
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,azure,powershell,)](https://skillicons.dev)
 
 
+
+![benwasden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benwasden&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
