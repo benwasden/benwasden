@@ -18,7 +18,11 @@
 
 
 ### Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bpwasden)
+<div id="social-media">
+  <a href="www.linkedin.com/in/bpwasden">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
 
 
 
