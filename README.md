@@ -44,6 +44,6 @@ Technologies: Next.js, PostgreSQL, TypeScript
 
 ##
 
-![benwasden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benwasden&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 Feel free to browse through any repositories and reach out if you have any questions. Have a great day!
