@@ -25,14 +25,6 @@ Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Developme
 ### Let's connect!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bpwasden/)
 
-##
-
-### Project(s) in Development:
-**Artisan Marketplace** - Full Stack e-commerce platform
-Technologies: Next.js, PostgreSQL, TypeScript
-- Responsive design
-- User authentication
-- Listing uploads including images
 
 ##
 
