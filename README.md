@@ -11,13 +11,12 @@ Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Developme
 ##
 
 ### Currently learning:
-- **Next.js** projects for school
+- **C++**
 - **Godot** personal project
 
 ### Goals:
 - Transition from IT to Software Development in the next year
 - Finish the last semester of my Bachelor's Degree
-- Learn more languages, such as Java and C++
 - Diversify and expand the projects in my portfolio
 
 ##
