@@ -28,7 +28,7 @@ Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Developme
 ##
 
 ### Software Developer Stack:
-[![Software development skill icons](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,npm,pnpm,postgres,mysql,mongodb,py,cs,godot&perline=5)](https://skillicons.dev)
+[![Software development skill icons](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,npm,pnpm,postgres,mysql,mongodb,py,cs,godot,cpp&perline=5)](https://skillicons.dev)
 
 ### IT Skills:
 [![IT Skill icons](https://skillicons.dev/icons?i=apple,windows,linux,azure,powershell,gmail&perline=5)](https://skillicons.dev)
