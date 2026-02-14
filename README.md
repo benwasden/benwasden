@@ -11,7 +11,7 @@ Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Developme
 ##
 
 ### Currently learning:
-- **C++**
+- **Swift**
 - **Godot** personal project
 
 ### Goals:
