@@ -1,10 +1,10 @@
 # Benjamin Wasden
 
-Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Development at BYU Idaho. I love both the hardware and software of technology, as well as art, music, and much more. Welcome to my GitHub Profile!
+Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Development. I've built my career in tech so far through IT as a Systems and Network Administrator. I love both the hardware and software of technology, as well as art, music, astronomy, and much more. Welcome to my profile!
 
 ### Some facts about Me:
 - Software Development Senior at BYUI
-- Currently an IT Technician and Sys Admin
+- 7+ years as an IT Technician and Sys/Network Admin
 - Passionate about Tech in all forms, especially mobile apps and OS
 - Love art of all kinds, especially music and illustrating
 
