@@ -11,6 +11,7 @@ Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Developme
 ##
 
 ### Currently learning:
+- **Blazor**
 - **Swift**
 - **C++**
 - **Godot** personal project
@@ -19,12 +20,6 @@ Hello! I'm Ben, currently a Senior finishing my Bachelor's in Software Developme
 - Transition from IT to Software Development in the next year
 - Finish the last semester of my Bachelor's Degree
 - Diversify and expand the projects in my portfolio
-- Contribute to 3 open source projects over the next few months
-
-##
-
-### Let's connect!
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bpwasden/)
 
 
 ##
