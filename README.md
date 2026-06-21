@@ -1,6 +1,6 @@
 # Benjamin Wasden
 
-Hello! I'm Ben. My degree is in Software Development, though much of my career is through IT as a Systems and Network Administrator. I love both the hardware and software of technology, as well as art, music, astronomy, and much more. Welcome to my profile!
+Hello! I'm Ben. My Bachelors is in Software Development, though much of my career is through IT as a Systems and Network Administrator. I love both the hardware and software of technology, as well as art, music, astronomy, and much more. Welcome to my profile!
 
 ### Some facts about Me:
 - Bachelors in Software Development
